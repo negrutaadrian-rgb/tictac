@@ -1,0 +1,11 @@
+table{
+    border-width: 0px;
+}
+
+td {
+    background-color: #dddddd; border: 3px solit white;
+    font-size: 80px;
+    font-family: Verdana, sans-serif;
+    color: #000000;
+    border-radius: 10px 10px 10px 10px;
+}
